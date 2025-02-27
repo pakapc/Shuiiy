@@ -19,6 +19,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           args: >
-            -Dsonar.projectKey=liviby_minicase
-            -Dsonar.organization=liviby
+            -Dsonar.projectKey=pakapc_Shuiiy
+            -Dsonar.organization=pakapc
             -Dsonar.host.url=https://sonarcloud.io
